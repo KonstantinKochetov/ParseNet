@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name = "background">#B3E5FC</color>
+    <color name = "light_gray">#C5CAE9</color>
+    <color name="apptheme_color">#303F9F</color>
+    <color name="light_button">#B3E5FC</color>
+    <color name="view_pager">#82BFDE</color>
+    <color name="pressed_button">#03A9F4</color>
+    <color name="focused_button">#0288D1</color>
+    <color name="text_color">#250054</color>
+    <color name="light_background">#B3E5FC</color>
+    <color name="swipeRefresh1">#03A9F4</color>
+    <color name="swipeRefresh2">#3F51B5</color>
+    <color name="swipeRefresh3">#B3E5FC</color>
+    <color name="swipeRefresh4">#448AFF</color>
+
+</resources>
